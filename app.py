@@ -1,6 +1,5 @@
 import streamlit as st
 import google.generativeai as genai
-python-docx
 from PIL import Image
 import tempfile
 import os
